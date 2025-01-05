@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Data-Science-Project-Hit---Portugal-Investments
 ## Portugal Real Estate 
 
@@ -213,4 +212,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 We hope this project provides valuable insights for potential investors in the Portuguese real estate market. For any questions or further information, please don't hesitate to reach out or refer to our detailed [video presentation](#project-video-presentation).
->>>>>>> e5a94fe (Added Relevant Files)
